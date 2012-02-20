@@ -2,7 +2,7 @@ import re
 import unittest
 
 from . import bcrypt
-from lib.eksblowfish import EksBlowfish
+from .eksblowfish import EksBlowfish
 from nose.tools import eq_
 
 
